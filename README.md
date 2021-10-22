@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Insoi
+- 👀 I’m interested in roblox studio lua.
+- 🌱 I’m currently learning lua, C#.
+- 💞️ I’m looking to collaborate on Roblox Studio.
+- 📫 How to reach me by email with (( wzy87hky123@gmail.com ))

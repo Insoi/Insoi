@@ -1,5 +1,5 @@
 HELLO : I AM INSOI 🫡🫡
 
-16 YEAR OLD // up and coming game developer who doesn't know shit 💻
+17 YEAR OLD // Developer since like yesterday
 
-LUAU / PYTHON / okay chat I'm learning gdscript atm
+Luau / Python / GDScript
